@@ -27,8 +27,8 @@ app/src/main/
 
 ## Requirements
 
-- **Android Studio**: Ladybug (2024.2.1) or newer
-- **JDK**: 17 (configured in Gradle toolchain)
+- **Android Studio**: Ladybug (2024.2.1) or newer (uses bundled JDK)
+- **Java compatibility**: 11 (source/target) — no separate JDK install needed
 - **Min SDK**: 24 (Android 7.0 Nougat)
 - **Target SDK**: 37
 - **Compile SDK**: 37
